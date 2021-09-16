@@ -1,1 +1,1 @@
-# stepin--vechile-seat-temp
+# stepin-vehicle-seat-temp
